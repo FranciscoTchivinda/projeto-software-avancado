@@ -1,0 +1,11 @@
+Artefatos do Projeto de Software Avançado
+
+1. Requisitos funcionais:
+   - Sistema de gerenciamento para clínica médica
+   - Agendamento de consultas
+   - Controle de prontuários
+
+2. Diagramas: (a ser adicionado)
+3. Código-fonte: (a ser adicionado)
+
+Este repositório segue práticas de Governança de TI (ITIL/COBIT).
